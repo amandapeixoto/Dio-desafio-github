@@ -1,0 +1,12 @@
+1º Criar repositório no Github
+2º Copiar Code HTTPS e abrir terminal Git Bash Here na pasta criada
+3º Digitar git clone e colar o link
+
+• Isso fará com que tudo que esteja no github seja clonado na máquina
+
+Ao fazer novas alterações é necessário comitar, seguir esses passos
+
+1º git status - mostrará o que ainda não foi para o repositório
+2º git add .
+3º git comitt -m 'Informar o que está indo para o github'
+4º git push origin main (informar branch que está sendo utilizada - main, master...)
